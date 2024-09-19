@@ -1,6 +1,6 @@
-## Hi there 👋
+## Olá mundo!
 
-###olá! Eu sou Maysa Pont🙋🏻‍♀️
+olá! Eu sou Maysa Pont🙋🏻‍♀️
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysa-pont-1939442a6/)
@@ -8,7 +8,7 @@
 
 ![Maysa GitHub stats](https://github-readme-stats.vercel.app/api?username=maysapont&show_icons=true&theme=dracula)
 
-##tecnologia que eu uso no meu dia 
+tecnologia que eu uso no meu dia 
 
 <div style= "display: inline_black"><br/>
  <img align="center" alt"html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
