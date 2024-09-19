@@ -1,6 +1,6 @@
 ## Olá mundo!
 
-olá! Eu sou Maysa Pont🙋🏻‍♀️
+Eu sou Maysa Pont🙋🏻‍♀️
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysa-pont-1939442a6/)
